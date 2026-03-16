@@ -1,15 +1,139 @@
+<!-- HEADER -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagjotsingh00) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jagjot singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jagjot Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamjagjot02@gmail.com) 
+<h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jagjotsingh00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jagjotsingh00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagjotsingh00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Frontend Developer | React Developer | JavaScript Enthusiast
+</p>
+
+<p align="center">
+Passionate about building modern, scalable and user-friendly web applications.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Apps&center=true&width=500&height=45">
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jagjotsingh00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/jagjotsingh00">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@jagjot%20singh">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://mastodon.social/@Jagjot%20Singh">
+<img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="mailto:iamjagjot02@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+* 💻 Frontend Developer focused on **React & JavaScript**
+* 🚀 Building **modern and responsive web applications**
+* 📚 Currently learning **advanced React concepts**
+* 🎯 Goal: Become a **full-stack developer**
+* 📫 Email: **[iamjagjot02@gmail.com](mailto:iamjagjot02@gmail.com)**
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagjotsingh00&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagjotsingh00&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagjotsingh00&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Jagjotsingh00&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Example React Component
+
+```javascript
+import React from "react";
+
+const ProfileCard = () => {
+  return (
+    <div style={styles.card}>
+      <h2>Jagjot Singh</h2>
+      <p>Frontend Developer</p>
+      <button style={styles.button}>Follow</button>
+    </div>
+  );
+};
+
+const styles = {
+  card: {
+    textAlign: "center",
+    padding: "20px",
+    background: "#0d1117",
+    color: "white",
+    borderRadius: "10px",
+  },
+  button: {
+    padding: "10px 20px",
+    background: "#61dafb",
+    border: "none",
+    borderRadius: "5px",
+  },
+};
+
+export default ProfileCard;
+```
+
+---
+
+# ⭐ Quote
+
+> “First, solve the problem. Then, write the code.” — John Johnson
+
+---
+
+<p align="center">
+
+⭐ **From Jagjot Singh**
+
+</p>
