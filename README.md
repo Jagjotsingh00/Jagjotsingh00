@@ -1,18 +1,72 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 
 <h1 align="center">Hi 👋, I'm Jagjot Singh</h1>
 
+<h3 align="center">Frontend Developer | React Developer | JavaScript Enthusiast</h3>
+
 <p align="center">
-Frontend Developer | React Developer | JavaScript Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-Passionate about building modern, scalable and user-friendly web applications.
+Passionate about building scalable, modern and user-friendly web applications.
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+* 💻 Frontend Developer focused on **React & JavaScript**
+* 🚀 Passionate about **modern UI development**
+* 📚 Currently learning **advanced React & frontend architecture**
+* 🎯 Goal: Become a **professional full-stack developer**
+* 📫 Email: **[iamjagjot02@gmail.com](mailto:iamjagjot02@gmail.com)**
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,nodejs"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagjotsingh00&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagjotsingh00&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Apps&center=true&width=500&height=45">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagjotsingh00&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagjotsingh00&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 
 </p>
 
@@ -42,45 +96,7 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 ---
 
-# 👨‍💻 About Me
-
-* 💻 Frontend Developer focused on **React & JavaScript**
-* 🚀 Building **modern and responsive web applications**
-* 📚 Currently learning **advanced React concepts**
-* 🎯 Goal: Become a **full-stack developer**
-* 📫 Email: **[iamjagjot02@gmail.com](mailto:iamjagjot02@gmail.com)**
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagjotsingh00&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagjotsingh00&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagjotsingh00&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
@@ -90,50 +106,18 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 ---
 
-# 💡 Example React Component
+# ⭐ Developer Quote
 
-```javascript
-import React from "react";
+<p align="center">
 
-const ProfileCard = () => {
-  return (
-    <div style={styles.card}>
-      <h2>Jagjot Singh</h2>
-      <p>Frontend Developer</p>
-      <button style={styles.button}>Follow</button>
-    </div>
-  );
-};
+"First, solve the problem. Then, write the code."
 
-const styles = {
-  card: {
-    textAlign: "center",
-    padding: "20px",
-    background: "#0d1117",
-    color: "white",
-    borderRadius: "10px",
-  },
-  button: {
-    padding: "10px 20px",
-    background: "#61dafb",
-    border: "none",
-    borderRadius: "5px",
-  },
-};
-
-export default ProfileCard;
-```
-
----
-
-# ⭐ Quote
-
-> “First, solve the problem. Then, write the code.” — John Johnson
+</p>
 
 ---
 
 <p align="center">
 
-⭐ **From Jagjot Singh**
+⭐ **From Jagjot Singh — Keep Learning, Keep Building 🚀**
 
 </p>
